@@ -1,0 +1,27 @@
+1) Scrieţi un program C/C++ care citeşte de la tastatură două şiruri de caractere formate din maximum 100 litere mici ale alfabetului englez şi afişează pe ecran cel mai lung sufix comun al celor două şiruri de caractere. Dacă cele două şiruri nu au niciun sufix comun, atunci programul va afişa pe ecran mesajul NU EXISTA. 
+
+Exemplu: pentru şirurile "marina" şi "elena" se va afişa "na"
+
+
+2) Şirul de caractere s2 este “clona” şirului de caractere s1 dacă se poate obţine din s1 prin eliminarea tuturor apariţiilor unei singure vocale. Se consideră vocală orice literă din mulţimea {a,e,i,o,u}. Scrieţi programul C/C++ care citeşte de la tastatură un cuvânt format din cel mult 20 litere mici ale alfabetului englez şi afişează pe ecran (dacă există), toate “clonele” acestui cuvânt, fiecare pe câte o linie a ecranului.
+
+Exemplu: pentru cuvântul informatica se afişează, nu neapărat în această ordine, “clonele” scrise alăturat. 
+
+nformatca
+
+infrmatica
+
+informtic
+
+
+3) Scrieţi un program C/C++ care citeşte de la tastatură două caractere c1 şi c2 (litere distincte ale alfabetului englez), şi un text având cel mult 250 caractere (doar spaţii şi litere ale alfabetului englez), pe care îl modifică înlocuind toate apariţiile caracterului memorat în c1 cu cel memorat în c2 şi toate apariţiile caracterului memorat în c2 cu cel memorat în c1. Programul afişează pe linii separate ale ecranului atât textul iniţial cât şi textul obţinut după efectuarea înlocuirilor. 
+
+Exemplu: dacă pentru c1 se citeşte a, pentru c2 se citeşte o iar textul citit este: hocus pocus preparatus
+
+se va afişa :
+
+hocus pocus preparatus
+
+hacus pacus preporotus
+
+

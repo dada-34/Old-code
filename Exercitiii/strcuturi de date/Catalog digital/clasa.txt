@@ -1,0 +1,16 @@
+11 C
+2
+Popescu Gigel 3
+Matematica 0 3
+8 9 7
+Info 0 4
+10 9 8 10
+Istorie 2 3
+7 4 6
+Popescu Ionel 3
+Matematica 1 4
+8 9 7 10
+Info 0 4
+10 9 9 10
+Istorie 0 4
+7 9 8 10
